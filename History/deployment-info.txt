@@ -1,3 +1,5 @@
+Build, Push, and Deploy to Kubernetes #65: Commit 08a5621 pushed by SreekanthSree1999, Deployed Image: sreekanthsree1999/okta_cookie_auth:08a5621
+
 Build, Push, and Deploy to Kubernetes #64: Commit 28aac82 pushed by SreekanthSree1999, Deployed Image: sreekanthsree1999/okta_cookie_auth:28aac82
 
 Build, Push, and Deploy to Kubernetes #62: Commit 37a7746 pushed by SreekanthSree1999, Deployed Image: sreekanthsree1999/okta_cookie_auth:37a7746
