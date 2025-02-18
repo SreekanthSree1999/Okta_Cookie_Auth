@@ -8,7 +8,7 @@ using System.Diagnostics;
 namespace Okta_Cookie_Auth.Controllers
 {
     
-    [Authorize]
+    // [Authorize] Disabling the Okta Authentication for some time due HTTPS issues after Authenticated.
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
